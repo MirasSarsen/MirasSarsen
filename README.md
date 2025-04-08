@@ -42,7 +42,7 @@ Welcome to my digital playground 🚀
 
 ### 📬 Contact Me
 
-- **Telegram**: @askiznik
+- **Telegram**: [@askiznik](https://t.me/askiznik)
 - **Email**: [miras.frontender@gmail.com](mailto:miras.frontender@gmail.com)
 
 ---
