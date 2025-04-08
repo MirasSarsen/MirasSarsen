@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-@MirasSarsen-%23181717?style=flat-square&logo=github)](https://github.com/MirasSarsen)
 [![](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miras.frontender@gmail.com)
 
-💻 **Developer | Chess Enthusiast** ♟️
+💻 **Frontend Developer | Focused on building interactive web apps using React & TypeScript** ♟️
 
 🚀 𝑳𝒐𝒗𝒆 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒓𝒆𝒂𝒍𝒊𝒕𝒚. 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔!
 
