@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-![MirasSarsen's GitHub Stats][https://github-readme-stats.vercel.app/api?username=MirasSarsen&show_icons=true&include_all_commits=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=MirasSarsen)
+![MirasSarsen's GitHub Stats](https://github-readme-stats-mirassarsen.vercel.app/api?username=MirasSarsen&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
 
 📫 **Get in Touch**
 - GitHub: [MirasSarsen](https://github.com/MirasSarsen)
