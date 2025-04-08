@@ -42,7 +42,7 @@ Welcome to my digital playground 🚀
 
 ### 📬 Contact Me
 
-- **GitHub**: [@MirasSarsen](https://github.com/MirasSarsen)
+- **Telegram**: @askiznik
 - **Email**: [miras.frontender@gmail.com](mailto:miras.frontender@gmail.com)
 
 ---
